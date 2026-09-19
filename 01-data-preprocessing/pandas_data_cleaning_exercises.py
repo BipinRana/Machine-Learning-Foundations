@@ -8,7 +8,7 @@ print(df)
 
 print(df.drop('App',axis=1))
 
-df = pd.read_csv('titanic.csv')
+df = pd.read_csv('../datasets/titanic.csv')
 
 print(df)
 
@@ -44,7 +44,7 @@ print(df)
 
 df.Age[df.Age>65]
 
-df = pd.read_csv('titanic.csv')
+df = pd.read_csv('../datasets/titanic.csv')
 
 print(df)
 

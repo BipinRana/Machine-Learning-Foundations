@@ -1,4 +1,4 @@
-Day4: More on Data Preprocessing
+# Outliers, Encoding, and Feature Scaling
 
 1. Handling Outliers and Anomalies: Outliers and Anomalies are similar concept. Anomalies are unknown data that are impossible. Lets I usually live in NewYork and I last logged in at 8pm. If there is a login request at 8:15pm from Somalia,
                                     that would be physically impossible and hence it is an anomaly. Outliers however are extreme conditions but possible. In a neighborbood of middle class people with salary of 50k usd, there may also reside

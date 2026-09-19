@@ -25,7 +25,7 @@ print(new_a)
 import pandas as pd
 
 # Load the data
-df = pd.read_csv('Social_Network_Ads.csv')
+df = pd.read_csv('../datasets/social_network_ads.csv')
 
 # Extract features and target
 X = df[['Age', 'EstimatedSalary']]

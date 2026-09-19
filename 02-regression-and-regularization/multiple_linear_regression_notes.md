@@ -1,4 +1,4 @@
-Day 3 : Multiple Linear Regression
+# Multiple Linear Regression
 Well, the vectors or rather the end results that we are seeking are not always influenced by just one feature. 
 For example, if we are looking to predict the rent prices in different states of a nation, the price itself maybe influenced by factors like Living Cost, Bedrooms, Bathrooms and many others.
 

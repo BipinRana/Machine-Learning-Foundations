@@ -1,4 +1,4 @@
-Day2: Linear Regression
+# Simple Linear Regression
 When we think of machine learning, Artifical Intelligence, we directly think of robots, chatGPT and such.
 But the basics start with understanding techniques like regression, greedy algorithms that iteratively finds solutions.
 

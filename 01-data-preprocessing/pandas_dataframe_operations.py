@@ -3,7 +3,7 @@ import pandas as pd
 
 a = pd.Series([True,True,True,False])
 
-df = pd.read_csv("C:/Users/LEGION/Desktop/Data Science/titanic.csv")
+df = pd.read_csv("../datasets/titanic.csv")
 
 print(df)
 
