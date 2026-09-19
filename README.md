@@ -23,9 +23,6 @@ The original repositories are preserved for reference:
 ├── 07-data-collection-and-visualization/
 ├── assets/
 ├── datasets/
-├── learning-machine-learning/
-├── preprocessing-and-modeling/
-└── pyspark/
 ```
 
 ## Contents
