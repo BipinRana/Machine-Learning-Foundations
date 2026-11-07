@@ -1,5 +1,7 @@
 # Machine Learning Foundations
 
+Self-study of core machine learning methods, with from-scratch implementations compared to scikit-learn.
+
 This repository consolidates several of my earlier machine learning and data-processing repositories into a single, topic-based structure.
 
 The projects were originally created as separate repositories while I was learning different parts of the machine learning workflow, including data preprocessing, regression, classification, clustering, model evaluation, visualization, web data collection, and PySpark.
